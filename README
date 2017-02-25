@@ -1,0 +1,27 @@
+Credio Client for PHP
+
+Credio website - http://www.crediosys.com
+
+
+Table of Contents:
+    1) Introduction
+    2) Installation
+    3) Usage
+
+
+1) Introduction
+
+Use Credio Client for PHP to implement Credio API within Your PHP application.
+
+
+2) Installation:
+
+2.1) Credio PHP Client - copy CredioClient.php and CredioClientError.php to Your application.
+2.2) Examples - copy CredioClient*.php together with examples folder in some_folder under your web_root.
+open URL http://yourwebsite.com/some_folder/examples
+
+
+3) Usage:
+
+3.1) get Instance of Credio\Client
+3.2) use Instance
